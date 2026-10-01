@@ -1,0 +1,6 @@
+{
+  "name": "MissionPay",
+  "description": "Dark-themed mission rewards wallet, XP progression tracker, leaderboard ranking, and creator plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

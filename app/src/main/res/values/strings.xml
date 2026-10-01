@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MissionPay</string>
+    <string name="user_avatar_letter">H</string>
+    <string name="user_name_guest">Guest</string>
+    <string name="user_subtitle_starter_bronze">Starter | Bronze Tier</string>
+    <string name="user_subtitle_pro_gold">Pro | Gold Tier</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="label_total_balance">TOTAL BALANCE</string>
+    <string name="btn_withdraw">Withdraw</string>
+    <string name="section_next_mission">Next Mission</string>
+    <string name="mission_eraser_title">Eraser on any surface</string>
+    <string name="mission_eraser_reward">+$2.40 • $15.50 with Pro</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_missions">Missions</string>
+    <string name="nav_ranking">Ranking</string>
+    <string name="nav_plans">Plans</string>
+    <string name="cd_next_mission_arrow">Open mission details</string>
+    <string name="cd_eraser_icon">Eraser mission icon</string>
+</resources>
